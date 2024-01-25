@@ -4,7 +4,7 @@
 >
 > * 传入一个参数为安装脚本：`./xxx.sh [param1]`
 >
-> * 在其后再加一个参数`rollback`，则回退到安装前的系统状态：`./xxx.sh [param1] rollback`
+> * 在其后再加一个参数`rollback`，系统可回退到安装前的状态：`./xxx.sh [param1] rollback`
 
 
 准备步骤：

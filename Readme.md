@@ -38,7 +38,7 @@
    
       ```
       ./install_mysql.sh [param1] 
-   ```
+      ```
    
    * param1为安装包的名称
       * 例  `./install_mysql.sh mysql-5.7.34-linux-glibc2.12-x86_64.tar.gz`

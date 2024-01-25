@@ -138,17 +138,19 @@
    ```
 
 2. 上传nacos安装包和install_nacos.sh安装脚本
+  
+3.  解压nacos安装包
 
-3. 安装：
+4. 安装：
 
    ```
    ./install_nacos.sh [param1] 
    ```
 
-   * `param1`：压缩包名称
+   * `param1`：压缩包解压后的名称
    * 例：`./install_nacos.sh nacos-server-2.1.1.tar.gz`
 
-4. 回退：
+5. 回退：
 
    ```
    ./install_nacos.sh [param1] rollback
